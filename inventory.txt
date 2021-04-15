@@ -1,0 +1,60 @@
+77552
+keyboard
+885
+a
+50
+10kg
+Mr. Li
+RM 100, China Town, UK
+n
+
+1
+mouse pad
+2
+3
+3
+5g
+Mr. Wong
+RM 55, Den Street
+n
+
+2
+mouse
+555
+b
+7
+800g
+Mr. Fong
+RM 7720, Dwag Road, UK
+d
+
+3
+GTX 3080TI Graphic Card
+800
+c
+20
+30kg
+Mr. Wo
+RM 2, HighHill road
+n
+
+4
+Boeing 737
+6669
+d
+2
+80000kg
+Mr. Ding
+RM 9, Lan Street
+d
+
+5
+A4 paper
+0
+a
+5000
+10kg
+Mr. Lau
+RM 90, Low Street
+d
+
